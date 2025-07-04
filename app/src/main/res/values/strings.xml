@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Current Location Map</string>
+    <string name="location_permission_required">Location permission is required to show your current location</string>
+    <string name="unable_to_get_location">Unable to get current location</string>
+    <string name="error_getting_location">Error getting location</string>
+    <string name="location_permission_not_granted">Location permission not granted</string>
+    <string name="refresh_location">Refresh location</string>
+    <string name="location_information">Location Information</string>
+    <string name="tap_refresh_to_get_location">Tap the refresh button to get your current location</string>
+</resources> 
